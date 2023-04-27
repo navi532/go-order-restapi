@@ -5,7 +5,7 @@ import (
 	"errors"
 	"time"
 
-	"gin-order-restapi/configs"
+	"github.com/navi532/gin-order-restapi/configs"
 
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"

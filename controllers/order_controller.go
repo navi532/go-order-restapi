@@ -3,9 +3,9 @@ package controllers
 import (
 	"net/http"
 
-	"gin-order-restapi/configs"
-	"gin-order-restapi/controllers/requests"
-	"gin-order-restapi/services"
+	"github.com/navi532/gin-order-restapi/configs"
+	"github.com/navi532/gin-order-restapi/controllers/requests"
+	"github.com/navi532/gin-order-restapi/services"
 
 	"github.com/gin-gonic/gin"
 

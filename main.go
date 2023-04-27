@@ -1,8 +1,8 @@
 package main
 
 import (
-	"gin-order-restapi/configs"
-	"gin-order-restapi/routes"
+	"github.com/navi532/gin-order-restapi/configs"
+	"github.com/navi532/gin-order-restapi/routes"
 
 	"github.com/gin-gonic/gin"
 )

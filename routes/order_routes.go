@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"gin-order-restapi/controllers"
+	"github.com/navi532/gin-order-restapi/controllers"
 
 	"github.com/gin-gonic/gin"
 )

@@ -3,8 +3,8 @@ package services
 import (
 	"encoding/json"
 
-	"gin-order-restapi/controllers/requests"
-	"gin-order-restapi/models"
+	"github.com/navi532/gin-order-restapi/controllers/requests"
+	"github.com/navi532/gin-order-restapi/models"
 )
 
 func CreateOrder(request *requests.CreateOrderRequest) (*models.Order, error) {
